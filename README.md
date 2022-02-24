@@ -30,5 +30,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### 📝 LICENSE
 
 <h4 align="center"> 
-	🚧  Todos os direitos reservados ©Copyright -® renanfran...  🚧
+	🚧  Todos os direitos reservados ©Copyright -® renanfranca...  🚧
 </h4>
